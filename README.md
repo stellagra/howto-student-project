@@ -1,5 +1,6 @@
 # Intention
 Consider this a buffet: Take what you like, combine according to your own needs, and leave the rest behind. 
+I am not responsible for the consequences arising from your use of this content. 
 This repo has been created with the best intentions to provide:
 - Hints on how to perform and report a scientific project, e.g. thesis project 
 - LaTeX template
