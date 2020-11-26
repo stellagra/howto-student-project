@@ -1,0 +1,104 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Arsclassica Article
+% LaTeX Template
+% Version 1.1 (10/6/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Lorenzo Pantieri (http://www.lorenzopantieri.net) with extensive modifications by:
+% Vel (vel@latextemplates.com)
+% Johan Bos (johan.bos@rug.nl)
+% Barbara Plank (bapl@itu.dk)
+% 
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%-------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%-------------------------------------------------------------------
+\documentclass[
+10pt, % Main document font size
+a4paper, % Paper type
+oneside, % One page layout (no page indentation)
+headinclude,footinclude, % Extra spacing for the header and footer
+%BCOR5mm, % Binding correction
+] {book}%
+\usepackage{eurosym}
+\usepackage{booktabs} % for nice tables with \toprule, \midrule
+\usepackage{csvsimple,longtable}
+\usepackage{booktabs}
+\setcounter{secnumdepth}{5}
+\input{structure.tex} % Include the structure.tex file which specified the document structure and layout
+
+\hyphenation{Fortran hy-phen-ation} % Specify custom hyphenation points in words with dashes where you would like hyphenation to occur, or alternatively, don't put any dashes in a word to stop hyphenation altogether
+
+%-----------------------------------------------------------
+%	TITLE AND AUTHOR(S)
+%-----------------------------------------------------------
+\title{\normalfont\spacedallcaps{My Fancy Title}} % The article title
+\author{\spacedlowsmallcaps{YOUR NAME HERE}} % The article author(s) - author affiliations need to be specified in the AUTHOR AFFILIATIONS block
+\date{} % An optional date to appear under the author(s)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%\renewcommand{\chaptermark}[1]{\markright{\spacedlowsmallcaps{#1}}} % The header for all pages (oneside) or for even pages (twoside)
+%\renewcommand{\subsectionmark}[1]{\markright{\thesubsection~#1}} % Uncomment when using the twoside option - this modifies the header on odd pages
+%\lehead{\mbox{\llap{\small\thepage\kern1em\color{halfgray} \vline}\color{halfgray}\hspace{0.5em}\rightmark\hfil}} % The header style
+\pagestyle{scrheadings} % Enable the headers specified in this block
+
+%-------------------------------------------------------
+%	TITLE PAGE
+%-------------------------------------------------------
+\hypersetup{pageanchor=false}
+\input{sec/titlepage}
+\hypersetup{pageanchor=true}
+
+%------------------------------------------------------
+%	ABSTRACT
+%------------------------------------------------------
+\pagenumbering{roman}
+\input{sec/abstract}
+%-------------------------------------------------------
+%	TABLE OF CONTENTS & LISTS OF FIGURES AND TABLES
+%-------------------------------------------------------
+\clearpage
+\setcounter{tocdepth}{3} % Set the depth of the table of contents to show sections and subsections only
+\tableofcontents % Print the table of contents
+%\listoffigures % Print the list of figures (optional, only if you have many figures)
+%\listoftables % Print the list of tables (optional, only if you have many tables)
+%\lstlistoflistings
+
+%%%%%%%%%%%%%%%%%%
+% \chapter*{Preface}
+% \markboth{Preface}{Preface}
+% \addcontentsline{toc}{chapter}{Preface}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagenumbering{arabic}
+\input{sec/introduction}
+\input{sec/methods} 
+\input{sec/data}
+\input{sec/experiments}
+\input{sec/results}
+\input{sec/conclusion}
+\input{sec/futurework}
+
+%--------------------------------------------------------------
+%	BIBLIOGRAPHY
+%--------------------------------------------------------------
+%\bibliographystyle{chicago} % from template
+% I prefer the following ones
+\bibliographystyle{abbrv} 
+%\bibliographystyle{plain}  
+\bibliography{references}
+
+%--------------------------------------------------------------
+%	APPENDICES
+%--------------------------------------------------------------
+\input{sec/appendix}
+
+\end{document}
