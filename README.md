@@ -89,10 +89,11 @@ Which questions must be answered?
 - Did you unveil limitations of your data of choice?
 - ...
 
-## Hints
+## HOW TO report - hints
 - All Figures and Tables must be referenced in the text
 - Caption of figures: at the bottom
 - Caption of tables: at the top
+- Don't know how to say it? check this out:  https://www.phrasebank.manchester.ac.uk/
 
 ## DO NOT PLAGIARISE aka credit where credit is due
 You may use data, code, images, and even text from others IF and only IF:
