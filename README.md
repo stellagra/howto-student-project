@@ -38,7 +38,7 @@ Credible Sources:
 - ...
 
 ### ATTENTION
-- There are predatory conferences and journals, which claim to be credible , but aren't! 
+- There are predatory conferences and journals, which claim to be credible, but aren't! 
 - On some websites you will not have access to the full papers. However, you will have full access if you are at your university. (You can set up a VPN to have access from home.)
 
 ## Data and Code
@@ -69,10 +69,10 @@ How do I report my findings? A scientific report conforms to a common structure,
 
 ## The general structure
 Your report should be structured similarly as the following:
-- Introduction: intention and related work (briefly)
+- Introduction: intention and related work (the latter can also be separate)
 - Methods: Which tools did you use? detailed description of existing methods and your new one (if applicable).
-- Data: Which data did you use? How did you colelct it?
-- Experiments: what did you do? 
+- Data: Which data did you use? How did you collect it?
+- Experiments: What did you do? 
 - Results/Evaluation: How did it turn out?
 - Summary and Conclusion: Did the experiments work our as intented? What did you find? 
 - Future Work
@@ -82,7 +82,7 @@ Note: There are variations, e.g. often there are no separate sections for experi
 
 ## What to report? 
 Which questions must be answered?
-- Report what you did and why, also and expecially if the outcome is not positive. 
+- Report what you did and why, also and especially if the outcome is not positive. 
 - How did your method perform compare to others? 
 - Reflect on what went wrong and can be improved. Research includes failures.
 - If you collected new data: describe how you did it with which intentions. 
@@ -91,9 +91,9 @@ Which questions must be answered?
 
 ## HOW TO report - hints
 - All Figures and Tables must be referenced in the text
-- Caption of figures: at the bottom
-- Caption of tables: at the top
-- Don't know how to say it? check this out:  https://www.phrasebank.manchester.ac.uk/
+- Caption of figures at the bottom
+- Caption of tables at the top
+- Don't know how to say it? Check this out:  https://www.phrasebank.manchester.ac.uk/
 
 ## DO NOT PLAGIARISE aka credit where credit is due
 You may use data, code, images, and even text from others IF and only IF:
