@@ -44,9 +44,11 @@ Credible Sources:
 - https://dl.acm.org/
 - ...
 
-### ATTENTION
-- There are predatory conferences and journals, which claim to be credible, but aren't! 
-- On some websites you will not have access to the full papers. However, you will have full access if you are at your university. (You can set up a VPN to have access from home.)
+### ATTENTION - credicle and accessible?
+Please consider the following when looking for related work and any kind of literature:
+- Credibility: There are predatory conferences and journals, which claim to be credible, but aren't! Don't use those. 
+- Accessibility: On some websites you will not have access to the full papers. However, you will have full access through the IT university. Some papers might be on arxiv.org.
+- How to cite: If a publication is available on arxiv.org, and has been published at a conference or journal, use the reference to the conference/journal instead of the arxiv one.
 
 ## Data and Code
 You must cite the data and code which you used. In case you refer to a website, include date when you accessed it, because websites are due to change. 
