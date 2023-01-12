@@ -74,19 +74,28 @@ General recommendations for the process.
 
 
 # HOW TO REPORT
-How do I report my findings? A scientific report conforms to a common structure, which may vary depending on your task and focus. 
+In general your report should be self-contained, i.e. not depend on a link to a github repo to be understood. My general advice is try to write the report which you would like to read. 
+But how shall you report your findings? A scientific report conforms to a common structure, which may vary depending on your task and focus. 
+
 
 ## The general structure
 Your report should be structured similarly as the following:
-- Introduction: intention and related work (the latter can also be separate)
-- Methods: Which tools did you use? detailed description of existing methods and your new one (if applicable).
-- Data: Which data did you use? How did you collect it?
-- Experiments: What did you do? 
-- Results/Evaluation: How did it turn out?
-- Summary and Conclusion: Did the experiments work our as intented? What did you find? 
-- Future Work
-- References
-- Appendix (not always needed)
+<ol>
+<li> Introduction: intention, i.e. context and related work referring to state of the art (the latter can also be separate).</li>
+<li> Methods: Which tools did you use? detailed description of existing methods and your new one (if applicable).</li> 
+<li> Experiments: What did you do? </li> 
+<ul>
+<li> Data: Which data did you use? How did you collect it? (Might be a separate chapter.)</li> 
+<li> Results/Evaluation: How did it turn out?</li> 
+</ul>
+<li> Discussion: Did the experiments work our as intented? What did you find? </li> 
+<li> Conclusion: Summarize your findings.</li> 
+<ul>
+<li> Future Work: In case you have further ideas for future works, and how to address shortcomings you found, here is the right place to put them.</li> 
+</ul>
+<li> References: list of references which you used.</li> 
+<li> Appendix: not always needed, but might be useful for large tables etc. </li> 
+</ol>
 Note: There are variations, e.g. often there are no separate sections for experiments and results. 
 
 ## What to report? 
@@ -102,7 +111,7 @@ Which questions must be answered?
 - All Figures and Tables must be referenced in the text
 - Caption of figures at the bottom
 - Caption of tables at the top
-- Don't know how to say it? Check this out:  https://www.phrasebank.manchester.ac.uk/
+- Don't know how to say it? Check this out: https://www.phrasebank.manchester.ac.uk/
 
 ## DO NOT PLAGIARISE aka credit where credit is due
 You may use data, code, images, and even text from others IF and only IF:
