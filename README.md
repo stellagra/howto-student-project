@@ -10,7 +10,7 @@ This repo does NOT claim:
 - to provide complete information
 - to be suitable for all fields
 - to be suitable for everyone
-- to replace your scientific supervisor or the contact with him/her
+- to replace your scientific supervisor, the contact to them or their advise
 
 # My Expectations and Philosophy as your supervisor
 You may find this document helpful, independent of if I am your supervisor or not. In case I am, or you are considering it, I want to share some expectations and philosophies before the start. 
