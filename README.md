@@ -14,10 +14,10 @@ This repo does NOT claim:
 
 # My Expectations and Philosophy as your supervisor
 You may find this document helpful, independent of if I am your supervisor or not. In case I am, or you are considering it, I want to share some expectations and philosophies before the start. 
-* I am your scientific supervisor, and coach, i.e. I will guide you and provideadvice, but I will not do the work for you.Your project is your responsibility, and I am happy to contribute my advise when you ask for it.
+* I am your coach and scientific supervisor, i.e. I will guide you and provide advice, but I will not do the work for you. Your project is your responsibility. 
 * I am your customer. At the beginning we will carefully define a project description together. My main concern is that it is achievable, hence conider this a clearly defined lower bound which we agree upon. 
 * We will decide together if you want to have re-occuring regular meetings, or if you prefer to call for a meeting when needed. Either way, I expect it common curtesy to inform the other party of a meeting if they cannot make it. 
-* Don't worry about "failing". Expect to face that things do not work out as expected. Those are the interesting findings and the things you should invetigate, analyse and report.
+* Don't worry about "failing". Expect that things do not work out as expected. Those are actually the interesting findings and the things you should investigate, analyse and report. In terms of setting things up and getting things to work: reach out. But also consider that some things, e.g. old codebases, might not work out for you. In this case: adapt, overcome.
 
 
 # What is the goal of your project?
