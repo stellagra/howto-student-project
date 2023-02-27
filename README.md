@@ -45,26 +45,26 @@ Credible Sources:
 - https://dl.acm.org/
 - ...
 
-### ATTENTION - credicle and accessible?
+### ATTENTION - credible and accessible?
 Please consider the following when looking for related work and any kind of literature:
 - Credibility: There are predatory conferences and journals, which claim to be credible, but aren't! Don't use those. 
-- Accessibility: On some websites you will not have access to the full papers. However, you will have full access through the IT university. Some papers might be on arxiv.org.
+- Accessibility: On some websites you will not have access to the full papers. However, you might find some publications on the free webpage arxiv.org, or you might have full access through the IT university. In the latter case please check the following link with descriptions for ITU students: https://kub.kb.dk/c.php?g=91657&p=591599
 - How to cite: If a publication is available on arxiv.org, and has been published at a conference or journal, use the reference to the conference/journal instead of the arxiv one.
 
 ## Data and Code
-You must cite the data and code which you used. In case you refer to a website, include date when you accessed it, because websites are due to change. 
-To search for available data and code, I recommend the following 
+Keep in mind: You must cite the data and code which you used. In case you refer to a website, include the date when you accessed it, because websites are due to change. If you use code from a github repository you often find a reference and instructions how to cite the work at the bottom of the page, in a readme file or in a license file. I highöly encourage you to look for it. 
+In general to search for available data and code, I recommend the following sources as starting points
+- github.com
 - https://datasetsearch.research.google.com/
 - https://www.kaggle.com/
 - https://paperswithcode.com/
-- github
 - ...
 
 # Recommendations
 General recommendations for the process. 
 ## Tools
 - try google colab for computations (good if your hardware is very limited)
-- use overleaf for Latex (pro: you do not need to set anything up on your own machine, and can write "anywhere")
+- use overleaf for Latex (Pro: you do not need to set anything up on your own machine, and can write "anywhere". Contra: You need internet.)
 - forgot the LaTeX symbol? no problem: https://detexify.kirelabs.org/classify.html
 - need some math help? https://www.wolframalpha.com/
 
@@ -109,10 +109,12 @@ Which questions must be answered?
 - ...
 
 ## HOW TO report - hints
-- All Figures and Tables must be referenced in the text
+- All Figures and Tables must be referenced in the text. 
+- If you use LaTeX, use the environments "figure" and "table" with caption and label. Remember that the name of the label must be unique. 
 - Caption of figures at the bottom
 - Caption of tables at the top
 - Don't know how to say it? Check this out: https://www.phrasebank.manchester.ac.uk/
+- Stuck in how to put your thoughts into text? Talk it out! Explain it to peers, friends, family, or use a voice to text service. Google docs in Chrome offers this feature. 
 
 ## DO NOT PLAGIARISE aka credit where credit is due
 You may use data, code, images, and even text from others IF and only IF:
