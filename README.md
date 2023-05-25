@@ -120,3 +120,19 @@ Which questions must be answered?
 You may use data, code, images, and even text from others IF and only IF:
 - you refer to it properly! (e.g. on github there is often a license agreement and required citations)
 - Do not display, distribute, copy data from others without their consent! (GDPR)
+
+
+# Exam and Presentation 
+Your written project submission will traditionally be followe by an oral exam, where your supervisor(s) and another examiner will be present. This oral exam includes a presentation, followed by a question round. The guidelines at ITU allocate 40 minutes per student. A common timeline for such an oral exam can hence look as follows:
+- 10-15 minutes presentation
+- 15-20 minutes exam
+- 5 minutes grading (you will have to leave the room for this)
+- 5 minutes buffer+sharing the grade
+
+## Hints on how to present
+You can assume that the supervisor(s) and examiner have read your written work. During your presentation your task is to summarize the important points of your project. It also gives you the opportunity to clarify things, and incorporate videos. 
+It is recommended that you talk your presentation through as a practise, and add slide numbers such that the examiners can refer to slides for questions. 
+
+## Peace of mind
+It is possible that you wlil receive questions which you cannot answer. My best advise here is: expect this, and don't panic. Just say what you know. You did your project, hence you are the expert in what you did. 
+
