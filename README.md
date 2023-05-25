@@ -1,3 +1,25 @@
+
+- [Intention](#intention)
+- [My Expectations and Philosophy as your supervisor](#my-expectations-and-philosophy-as-your-supervisor)
+- [What is the goal of your project?](#what-is-the-goal-of-your-project)
+  - [Examples](#examples)
+- [Related Work](#related-work)
+  - [Literature Review](#literature-review)
+    - [ATTENTION - credible and accessible?](#attention---credible-and-accessible)
+  - [Data and Code](#data-and-code)
+- [Recommendations](#recommendations)
+  - [Tools](#tools)
+  - [Time and Project management hints](#time-and-project-management-hints)
+- [How to report](#how-to-report)
+  - [The general structure](#the-general-structure)
+  - [What to report?](#what-to-report)
+  - [Hints](#hints)
+  - [DO NOT PLAGIARISE aka credit where credit is due](#do-not-plagiarise-aka-credit-where-credit-is-due)
+- [Exam and Presentation](#exam-and-presentation)
+  - [Hints on how to present](#hints-on-how-to-present)
+  - [Peace of mind](#peace-of-mind)
+
+
 # Intention
 Consider this a buffet: Take what you like, combine according to your own needs, and leave the rest behind. 
 I am not responsible for the consequences arising from your use of this content. 
@@ -11,7 +33,7 @@ This repo does NOT claim:
 - to be suitable for all fields
 - to be suitable for everyone
 - to replace your scientific supervisor, the contact to them or their advise
-
+ 
 # My Expectations and Philosophy as your supervisor
 You may find this document helpful, independent of if I am your supervisor or not. In case I am, or you are considering it, I want to share some expectations and philosophies before the start. 
 * I am your coach and scientific supervisor, i.e. I will guide you and provide advice, but I will not do the work for you. Your project is your responsibility. 
@@ -74,7 +96,7 @@ General recommendations for the process.
 - explore other methods here: https://en.wikipedia.org/wiki/Time_management
 
 
-# HOW TO REPORT
+# How to report
 In general your report should be self-contained, i.e. not depend on a link to a github repo to be understood. My general advice is try to write the report which you would like to read. 
 But how shall you report your findings? A scientific report conforms to a common structure, which may vary depending on your task and focus. 
 
@@ -99,6 +121,7 @@ Your report should be structured similarly as the following:
 </ol>
 Note: There are variations, e.g. often there are no separate sections for experiments and results. 
 
+
 ## What to report? 
 Which questions must be answered?
 - Report what you did and why, also and especially if the outcome is not positive. 
@@ -108,7 +131,7 @@ Which questions must be answered?
 - Did you unveil limitations of your data of choice?
 - ...
 
-## HOW TO report - hints
+## Hints
 - All Figures and Tables must be referenced in the text. 
 - If you use LaTeX, use the environments "figure" and "table" with caption and label. Remember that the name of the label must be unique. 
 - Caption of figures at the bottom
