@@ -157,5 +157,5 @@ You can assume that the supervisor(s) and examiner have read your written work. 
 It is recommended that you talk your presentation through as a practise, and add slide numbers such that the examiners can refer to slides for questions. 
 
 ## Peace of mind
-It is possible that you wlil receive questions which you cannot answer. My best advise here is: expect this, and don't panic. Just say what you know. You did your project, hence you are the expert in what you did. 
+It is possible that you wlil receive questions which you cannot answer. My best advise here is: expect this, and don't panic. Just say what you know. Sometimes questions arise out of curiousity which might go beyond your project. However, you did your project, and carefully worked on all the details, hence you are the expert in what you did. And this is what will be reflected in your grade. 
 
