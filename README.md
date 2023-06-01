@@ -156,6 +156,6 @@ Your written project submission will traditionally be followe by an oral exam, w
 You can assume that the supervisor(s) and examiner have read your written work. During your presentation your task is to summarize the important points of your project. It also gives you the opportunity to clarify things, and incorporate videos. 
 It is recommended that you talk your presentation through as a practise, and add slide numbers such that the examiners can refer to slides for questions. 
 
-## Peace of mind
+## What to Expect
 It is possible that you wlil receive questions which you cannot answer. My best advise here is: expect this, and don't panic. Just say what you know. Sometimes questions arise out of curiousity which might go beyond your project. However, you did your project, and carefully worked on all the details, hence you are the expert in what you did. And this is what will be reflected in your grade. 
 
