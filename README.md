@@ -17,7 +17,7 @@
   - [DO NOT PLAGIARISE aka credit where credit is due](#do-not-plagiarise-aka-credit-where-credit-is-due)
 - [Exam and Presentation](#exam-and-presentation)
   - [Hints on how to present](#hints-on-how-to-present)
-  - [Peace of mind](#peace-of-mind)
+  - [What to Expect](#what-to-expect)
 
 
 # Intention
