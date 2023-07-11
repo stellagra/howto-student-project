@@ -37,9 +37,9 @@ This repo does NOT claim:
 # My Expectations and Philosophy as your supervisor
 You may find this document helpful, independent of if I am your supervisor or not. In case I am, or you are considering it, I want to share some expectations and philosophies before the start. 
 * I am your coach and scientific supervisor, i.e. I will guide you and provide advice, but I will not do the work for you. Your project is your responsibility. 
-* I am your customer. At the beginning we will carefully define a project description together. My main concern is that it is achievable, hence conider this a clearly defined lower bound which we agree upon. 
-* We will decide together if you want to have re-occuring regular meetings, or if you prefer to call for a meeting when needed. Either way, I expect it common curtesy to inform the other party of a meeting if they cannot make it. 
-* Don't worry about "failing". Expect that things do not work out as expected. Those are actually the interesting findings and the things you should investigate, analyse and report. In terms of setting things up and getting things to work: reach out. But also consider that some things, e.g. old codebases, might not work out for you. In this case: adapt, overcome.
+* I am your customer. At the beginning we will carefully define a project description together. My main concern is that it is achievable, hence consider this a clearly defined lower bound which we agree upon. 
+* We will decide together if you want to have recurring regular meetings, or if you prefer to call for a meeting when needed. Either way, I expect it common curtesy to inform the other party of a meeting if they cannot make it. 
+* Don't worry about "failing". Expect that things do not work out as expected. Those are actually the interesting findings and the things you should investigate, analyse and report. In terms of setting things up and getting things to work: reach out. But also consider that some things, e.g. old codebase, might not work out for you. In this case: adapt, overcome.
 
 
 # What is the goal of your project?
@@ -74,7 +74,7 @@ Please consider the following when looking for related work and any kind of lite
 - How to cite: If a publication is available on arxiv.org, and has been published at a conference or journal, use the reference to the conference/journal instead of the arxiv one.
 
 ## Data and Code
-Keep in mind: You must cite the data and code which you used. In case you refer to a website, include the date when you accessed it, because websites are due to change. If you use code from a github repository you often find a reference and instructions how to cite the work at the bottom of the page, in a readme file or in a license file. I highöly encourage you to look for it. 
+Keep in mind: You must cite the data and code which you used. In case you refer to a website, include the date when you accessed it, because websites are due to change. If you use code from a github repository you often find a reference and instructions how to cite the work at the bottom of the page, in a readme file or in a license file. I highly encourage you to look for it. 
 In general to search for available data and code, I recommend the following sources as starting points
 - github.com
 - https://datasetsearch.research.google.com/
@@ -111,7 +111,7 @@ Your report should be structured similarly as the following:
 <li> Data: Which data did you use? How did you collect it? (Might be a separate chapter.)</li> 
 <li> Results/Evaluation: How did it turn out?</li> 
 </ul>
-<li> Discussion: Did the experiments work our as intented? What did you find? </li> 
+<li> Discussion: Did the experiments work our as intended? What did you find? </li> 
 <li> Conclusion: Summarize your findings.</li> 
 <ul>
 <li> Future Work: In case you have further ideas for future works, and how to address shortcomings you found, here is the right place to put them.</li> 
@@ -146,7 +146,7 @@ You may use data, code, images, and even text from others IF and only IF:
 
 
 # Exam and Presentation 
-Your written project submission will traditionally be followe by an oral exam, where your supervisor(s) and another examiner will be present. This oral exam includes a presentation, followed by a question round. The guidelines at ITU allocate 40 minutes per student. A common timeline for such an oral exam can hence look as follows:
+Your written project submission will traditionally be followed by an oral exam, where your supervisor(s) and another examiner will be present. This oral exam includes a presentation, followed by a question round. The guidelines at ITU allocate 40 minutes per student. A common timeline for such an oral exam can hence look as follows:
 - 10-15 minutes presentation
 - 15-20 minutes exam
 - 5 minutes grading (you will have to leave the room for this)
@@ -154,8 +154,8 @@ Your written project submission will traditionally be followe by an oral exam, w
 
 ## Hints on how to present
 You can assume that the supervisor(s) and examiner have read your written work. During your presentation your task is to summarize the important points of your project. It also gives you the opportunity to clarify things, and incorporate videos. 
-It is recommended that you talk your presentation through as a practise, and add slide numbers such that the examiners can refer to slides for questions. 
+It is recommended that you talk your presentation through as a practice, and add slide numbers such that the examiners can refer to slides for questions. 
 
 ## What to Expect
-It is possible that you wlil receive questions which you cannot answer. My best advise here is: expect this, and don't panic. Just say what you know. Sometimes questions arise out of curiousity which might go beyond your project. However, you did your project, and carefully worked on all the details, hence you are the expert in what you did. And this is what will be reflected in your grade. 
+It is possible that you will receive questions which you cannot answer. My best advise here is: expect this, and don't panic. Just say what you know. You did your project, hence you are the expert in what you did. 
 
