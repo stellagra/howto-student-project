@@ -13,11 +13,13 @@
 - [How to report](#how-to-report)
   - [The general structure](#the-general-structure)
   - [What to report?](#what-to-report)
+    - [Report Failure - What if "it does not work"?](#report-failure---what-if-it-does-not-work)
   - [Hints](#hints)
   - [DO NOT PLAGIARISE aka credit where credit is due](#do-not-plagiarise-aka-credit-where-credit-is-due)
 - [Exam and Presentation](#exam-and-presentation)
   - [Hints on how to present](#hints-on-how-to-present)
   - [What to Expect](#what-to-expect)
+- [Resources at ITU](#resources-at-itu)
 
 
 # Intention
@@ -57,11 +59,11 @@ First you need to search what others have done:
 - How did they solve/approach your research problem?
 - How and with which intent was your considered method/tool used?
 - How and with which intent was your considered data used?
-It is good practice to use a tool to collect and organize your references, e.g. https://www.zotero.org/
+It is good practice to use a tool to collect and organize your references, e.g. [zotero](https://www.zotero.org/)
 
 ## Literature Review
-You must cite the work which you used, and which inspired you. For basic and commonly known methods a book references is fine. 
-Credible Sources:
+You must cite the work which you used, and which inspired you. For basic and commonly known methods a book references is fine. If you use github repositories, or websites, please add the version and/or the access date to your reference. 
+Examples of sources (please note that some might be behind a paywall)
 - https://scholar.google.com/
 - https://ieeexplore.ieee.org/
 - https://dl.acm.org/
@@ -70,30 +72,30 @@ Credible Sources:
 ### ATTENTION - credible and accessible?
 Please consider the following when looking for related work and any kind of literature:
 - Credibility: There are predatory conferences and journals, which claim to be credible, but aren't! Don't use those. 
-- Accessibility: On some websites you will not have access to the full papers. However, you might find some publications on the free webpage arxiv.org, or you might have full access through the IT university. In the latter case please check the following link with descriptions for ITU students: https://kub.kb.dk/c.php?g=91657&p=591599
-- How to cite: If a publication is available on arxiv.org, and has been published at a conference or journal, use the reference to the conference/journal instead of the arxiv one.
+- Accessibility: On some websites you will not have access to the full papers. However, you might find some publications on the free webpage arxiv.org, or you might have full access through the IT University, please check [here](https://kub.kb.dk/c.php?g=91657&p=591599).
+- How to cite: If a publication has been published at a conference or journal, use the reference to the conference/journal.
 
 ## Data and Code
 Keep in mind: You must cite the data and code which you used. In case you refer to a website, include the date when you accessed it, because websites are due to change. If you use code from a github repository you often find a reference and instructions how to cite the work at the bottom of the page, in a readme file or in a license file. I highly encourage you to look for it. 
 In general to search for available data and code, I recommend the following sources as starting points
-- github.com
-- https://datasetsearch.research.google.com/
-- https://www.kaggle.com/
-- https://paperswithcode.com/
-- ...
+* [IEEE openaccess datasets](https://ieee-dataport.org/datasets)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [Kaggle](https://www.kaggle.com/competitions), 
+* [paperswithcode.com](https://paperswithcode.com/) 
+* [github](github.com)
 
 # Recommendations
 General recommendations for the process. 
 ## Tools
 - try google colab for computations (good if your hardware is very limited)
 - use overleaf for Latex (Pro: you do not need to set anything up on your own machine, and can write "anywhere". Contra: You need internet.)
-- forgot the LaTeX symbol? no problem: https://detexify.kirelabs.org/classify.html
-- need some math help? https://www.wolframalpha.com/
+- forgot the LaTeX symbol? [No problem](https://detexify.kirelabs.org/classify)html
+- need some [math help](https://www.wolframalpha.com/)? 
 
 ## Time and Project management hints
-- use pomodoro technique: https://www.marinaratimer.com/
+- use [pomodoro technique](https://www.marinaratimer.com/)
 - define your goals 'SMART': Specific Measurable Achievable Reasonable Time-Bound
-- explore other methods here: https://en.wikipedia.org/wiki/Time_management
+- explore other methods [here](https://en.wikipedia.org/wiki/Time_management)
 
 
 # How to report
@@ -104,20 +106,20 @@ But how shall you report your findings? A scientific report conforms to a common
 ## The general structure
 Your report should be structured similarly as the following:
 <ol>
-<li> Introduction: intention, i.e. context and related work referring to state of the art (the latter can also be separate).</li>
-<li> Methods: Which tools did you use? detailed description of existing methods and your new one (if applicable).</li> 
-<li> Experiments: What did you do? </li> 
+<li> Introduction: intention, i.e. context and related work referring to state of the art (the latter can also be separate). What is your goal or research question?</li>
+<li> Methods: Detailed description of used methods and your adaptations or new one.</li> 
+<li> Experiments: What did you do? How do you measure your success, i.e. what are quantitative and qualitative measures? </li> 
 <ul>
 <li> Data: Which data did you use? How did you collect it? (Might be a separate chapter.)</li> 
 <li> Results/Evaluation: How did it turn out?</li> 
 </ul>
-<li> Discussion: Did the experiments work our as intended? What did you find? </li> 
-<li> Conclusion: Summarize your findings.</li> 
+<li> Discussion: Did the experiments work our as intended? Can you answer your research question(s)? How do they relate to your hypothesis? Did you find something unexpected?</li> 
+<li> Conclusion: Summarize your findings. </li> 
 <ul>
-<li> Future Work: In case you have further ideas for future works, and how to address shortcomings you found, here is the right place to put them.</li> 
+<li> Future Work: In case you have further ideas for future work, and how to address shortcomings you found, here is the right place to put them.</li> 
 </ul>
 <li> References: list of references which you used.</li> 
-<li> Appendix: not always needed, but might be useful for large tables etc. </li> 
+<li> Appendix: not always needed, but might be useful for additional images, large tables etc. </li> 
 </ol>
 Note: There are variations, e.g. often there are no separate sections for experiments and results. 
 
@@ -125,11 +127,22 @@ Note: There are variations, e.g. often there are no separate sections for experi
 ## What to report? 
 Which questions must be answered?
 - Report what you did and why, also and especially if the outcome is not positive. 
-- How did your method perform compare to others? 
+- How did your method perform compare to others? Compare to baselines, state-of-the-art approach(es).
 - Reflect on what went wrong and can be improved. Research includes failures.
 - If you collected new data: describe how you did it with which intentions. 
 - Did you unveil limitations of your data of choice?
 - ...
+
+### Report Failure - What if "it does not work"?
+First of all: Don't panic. This happens all of the time, and actually often unveils the really interesting research problems. People say Noble Prizes are won by "this is odd", and not "this turned out exactly as I expected".
+
+In research, we often try things which do not work, i.e. we fail, sometimes even spectacularly. This will not at all make you fail your project. In this case you should reflect and try to understand. Don't hide your failures. Learn from them and share your peculiar findings.
+
+Let's assume you try something which does "not work out". In this case, your task is, to describe what made you conclude this. There may be many reasons for failure, e.g. a method you re-implemented yields different results than the reference, or your proclaimed "improved" model performs worse than the baseline model, or your model does not converge in training, etc.  
+* Why do you claim "it does not work"? 
+* What can be possible reasons?
+* In the best case you perform additional experiments to support your hypothesis of "why did it fail"?
+
 
 ## Hints
 - All Figures and Tables must be referenced in the text. 
@@ -159,3 +172,5 @@ It is recommended that you talk your presentation through as a practice, and add
 ## What to Expect
 It is possible that you will receive questions which you cannot answer. My best advise here is: expect this, and don't panic. Just say what you know. You did your project, hence you are the expert in what you did. 
 
+# Resources at ITU
+If you are a student at ITU, you have access to specific resources, which might be helpful. Check it out [here](resources_itu.md).
