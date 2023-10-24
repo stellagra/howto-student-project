@@ -80,7 +80,7 @@ Keep in mind: You must cite the data and code which you used. In case you refer 
 In general to search for available data and code, I recommend the following sources as starting points
 * [IEEE openaccess datasets](https://ieee-dataport.org/datasets)
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
-* [Kaggle](https://www.kaggle.com/competitions), 
+* [Kaggle](https://www.kaggle.com/competitions) 
 * [paperswithcode.com](https://paperswithcode.com/) 
 * [github](github.com)
 
