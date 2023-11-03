@@ -87,10 +87,11 @@ In general to search for available data and code, I recommend the following sour
 # Recommendations
 General recommendations for the process. 
 ## Tools
-- try google colab for computations (good if your hardware is very limited)
-- use overleaf for Latex (Pro: you do not need to set anything up on your own machine, and can write "anywhere". Contra: You need internet.)
+- try [google colab](https://colab.research.google.com/) for computations Especially good if your hardware is very limited, or if you don't have a GPU. 
+- use [overleaf](https://www.overleaf.com/project) for Latex (Pro: you do not need to set anything up on your own machine, and can write "anywhere". Contra: You need internet.)
 - forgot the LaTeX symbol? [No problem](https://detexify.kirelabs.org/classify)html
 - need some [math help](https://www.wolframalpha.com/)? 
+- help to look into your date? Try [FiftyOne](https://docs.voxel51.com/)
 
 ## Time and Project management hints
 - use [pomodoro technique](https://www.marinaratimer.com/)
