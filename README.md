@@ -105,7 +105,7 @@ But how shall you report your findings? A scientific report conforms to a common
 
 
 ## The general structure
-Your report should be structured similarly as the following:
+Your report should be structured similarly as suggested in the following:
 <ol>
 <li> Introduction: intention, i.e. context and related work referring to state of the art (the latter can also be separate). What is your goal or research question?</li>
 <li> Methods: Detailed description of used methods and your adaptations or new one.</li> 
@@ -114,11 +114,8 @@ Your report should be structured similarly as the following:
 <li> Data: Which data did you use? How did you collect it? (Might be a separate chapter.)</li> 
 <li> Results/Evaluation: How did it turn out?</li> 
 </ul>
-<li> Discussion: Did the experiments work our as intended? Can you answer your research question(s)? How do they relate to your hypothesis? Did you find something unexpected?</li> 
-<li> Conclusion: Summarize your findings. </li> 
-<ul>
-<li> Future Work: In case you have further ideas for future work, and how to address shortcomings you found, here is the right place to put them.</li> 
-</ul>
+<li> Discussion: Did the experiments work our as intended? Can you answer your research question(s)? How do they relate to your hypothesis? Did you find something unexpected? In case you have further ideas for future work, and how to address shortcomings you found. (might also go in Conclusion)</li> 
+<li> Conclusion: Summarize your findings. Might also contain future work if not already in discussions. (Note that this depends on the structure of youre report.)</li> 
 <li> References: list of references which you used.</li> 
 <li> Appendix: not always needed, but might be useful for additional images, large tables etc. </li> 
 </ol>
