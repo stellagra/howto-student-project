@@ -160,8 +160,8 @@ You may use data, code, images, and even text from others IF and only IF:
 Your written project submission will traditionally be followed by an oral exam, where your supervisor(s) and another examiner will be present. This oral exam includes a presentation, followed by a question round. The guidelines at ITU allocate 40 minutes per student. A common timeline for such an oral exam can hence look as follows:
 - ca. 15 minutes presentation
 - ca. 20 minutes exam
-- 5 minutes grading (you will have to leave the room for this)
-- 5 minutes buffer+sharing the grade
+- ca. 5 minutes grading (you will have to leave the room for this)
+- ca. 5 minutes buffer+sharing the grade
 
 ## Hints on how to present
 You can assume that the supervisor(s) and examiner have read your written work. During your presentation your task is to summarize the important points of your project. It also gives you the opportunity to clarify things, and incorporate videos. 
