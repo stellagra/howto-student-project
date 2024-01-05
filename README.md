@@ -147,7 +147,7 @@ Let's assume you try something which does "not work out". In this case, your tas
 - If you use LaTeX, use the environments "figure" and "table" with caption and label. Remember that the name of the label must be unique. 
 - Caption of figures at the bottom
 - Caption of tables at the top
-- Don't know how to say it? Check this out: https://www.phrasebank.manchester.ac.uk/
+- Don't know how to say it? Check [this]() out: https://www.phrasebank.manchester.ac.uk/
 - Stuck in how to put your thoughts into text? Talk it out! Explain it to peers, friends, family, or use a voice to text service. Google docs in Chrome offers this feature. 
 
 ## DO NOT PLAGIARISE aka credit where credit is due
@@ -157,11 +157,14 @@ You may use data, code, images, and even text from others IF and only IF:
 
 
 # Exam and Presentation 
-Your written project submission will traditionally be followed by an oral exam, where your supervisor(s) and another examiner will be present. This oral exam includes a presentation, followed by a question round. The guidelines at ITU allocate 40 minutes per student. A common timeline for such an oral exam can hence look as follows:
+Your written project submission will traditionally be followed by an oral exam, where your supervisor(s) and another examiner will be present. This oral exam includes a presentation, followed by a question round. The guidelines at ITU allocate 30-50 minutes per student, depending on your project type. Please check the current itu guidelines for details, e.g. for [Master thesis](https://itustudent.itu.dk/study-administration/project-work/thesis) 50 minutes are allocated per student. (Please note: might change. This information was updated 05.01.2024)
+
+A common timeline for a 40-minutes oral exam can hence look as follows:
 - ca. 15 minutes presentation
 - ca. 20 minutes exam
-- ca. 5 minutes grading (you will have to leave the room for this)
-- ca. 5 minutes buffer+sharing the grade
+- ca. 2-3 minutes grading (you will have to leave the room for this)
+- ca. 2-3 minutes buffer+sharing the grade
+
 
 ## Hints on how to present
 You can assume that the supervisor(s) and examiner have read your written work. During your presentation your task is to summarize the important points of your project. It also gives you the opportunity to clarify things, and incorporate videos. 
