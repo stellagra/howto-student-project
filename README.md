@@ -45,7 +45,9 @@ You may find this document helpful, independent of if I am your supervisor or no
 
 
 # What is the goal of your project?
-What is the goal of your thesis? Perform and report a scientifically solid work in a structured manner, such that other fellow researchers can understand, and reproduce your findings. 
+What is the goal of your thesis? Perform and report a scientifically solid work in a structured manner, such that other fellow researchers can understand, and reproduce your findings. Note that reflecting on your findings is important in either case, i.e. independent of successful and unsuccessful outcome. 
+Be aware of the intented learning outcomes (ILOs) which are stated on the itu intranet [here](https://itustudent.itu.dk/Study-Administration/Project-Work/Intended-Learning-Outcomes).
+
 ## Examples
 You project may include one or several of the following:
 - Compare several tools on the same task and compare their performance
@@ -59,21 +61,22 @@ First you need to search what others have done:
 - How did they solve/approach your research problem?
 - How and with which intent was your considered method/tool used?
 - How and with which intent was your considered data used?
-It is good practice to use a tool to collect and organize your references, e.g. [zotero](https://www.zotero.org/)
+It is good practice to use a tool to collect and organize your references, e.g. [zotero](https://www.zotero.org/). 
 
 ## Literature Review
 You must cite the work which you used, and which inspired you. For basic and commonly known methods a book references is fine. If you use github repositories, or websites, please add the version and/or the access date to your reference. 
 Examples of sources (please note that some might be behind a paywall)
-- https://scholar.google.com/
-- https://ieeexplore.ieee.org/
-- https://dl.acm.org/
+- [google scholar](https://scholar.google.com/)
+- [ieee](https://ieeexplore.ieee.org/)
+- [acm](https://dl.acm.org/)
 - ...
+Note that some papers are behind a paywall. On getting access, read the next paragraph.
 
 ### ATTENTION - credible and accessible?
 Please consider the following when looking for related work and any kind of literature:
 - Credibility: There are predatory conferences and journals, which claim to be credible, but aren't! Don't use those. 
 - Accessibility: On some websites you will not have access to the full papers. However, you might find some publications on the free webpage arxiv.org, or you might have full access through the IT University, please check [here](https://kub.kb.dk/c.php?g=91657&p=591599).
-- How to cite: If a publication has been published at a conference or journal, use the reference to the conference/journal.
+- How to cite: If a publication has been published at a conference or journal, use the reference to the conference/journal. That means if you find an article e.g. on arxiv, which has been officially published in a peer-reviewed venue, adapt the information accordingly to reflect that, proving credibility. 
 
 ## Data and Code
 Keep in mind: You must cite the data and code which you used. In case you refer to a website, include the date when you accessed it, because websites are due to change. If you use code from a github repository you often find a reference and instructions how to cite the work at the bottom of the page, in a readme file or in a license file. I highly encourage you to look for it. 
@@ -94,7 +97,7 @@ General recommendations for the process.
 - help to look into your date? Try [FiftyOne](https://docs.voxel51.com/)
 
 ## Time and Project management hints
-- use [pomodoro technique](https://www.marinaratimer.com/)
+- use the [pomodoro technique](https://www.marinaratimer.com/)
 - define your goals 'SMART': Specific Measurable Achievable Reasonable Time-Bound
 - explore other methods [here](https://en.wikipedia.org/wiki/Time_management)
 
@@ -147,7 +150,7 @@ Let's assume you try something which does "not work out". In this case, your tas
 - If you use LaTeX, use the environments "figure" and "table" with caption and label. Remember that the name of the label must be unique. 
 - Caption of figures at the bottom
 - Caption of tables at the top
-- Don't know how to say it? Check [this]() out: https://www.phrasebank.manchester.ac.uk/
+- Don't know how to say it? Check [this](https://www.phrasebank.manchester.ac.uk/) out.
 - Stuck in how to put your thoughts into text? Talk it out! Explain it to peers, friends, family, or use a voice to text service. Google docs in Chrome offers this feature. 
 
 ## DO NOT PLAGIARISE aka credit where credit is due
