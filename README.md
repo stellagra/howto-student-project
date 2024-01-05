@@ -70,6 +70,7 @@ Examples of sources (please note that some might be behind a paywall)
 - [ieee](https://ieeexplore.ieee.org/)
 - [acm](https://dl.acm.org/)
 - ...
+
 Note that some papers are behind a paywall. On getting access, read the next paragraph.
 
 ### ATTENTION - credible and accessible?
