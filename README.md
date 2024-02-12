@@ -147,11 +147,11 @@ Let's assume you try something which does "not work out". In this case, your tas
 
 
 ## Hints
+- Don't know how to say it? [The Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) is a great resource for academic writers, and aims to provide examples for phrases commonly used to report research work.
 - All Figures and Tables must be referenced in the text. 
 - If you use LaTeX, use the environments "figure" and "table" with caption and label. Remember that the name of the label must be unique. 
 - Caption of figures at the bottom
 - Caption of tables at the top
-- Don't know how to say it? Check [this](https://www.phrasebank.manchester.ac.uk/) out.
 - Stuck in how to put your thoughts into text? Talk it out! Explain it to peers, friends, family, or use a voice to text service. Google docs in Chrome offers this feature. 
 
 ## DO NOT PLAGIARISE aka credit where credit is due
