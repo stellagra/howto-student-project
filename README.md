@@ -161,11 +161,17 @@ You may use data, code, images, and even text from others IF and only IF:
 
 
 # Exam and Presentation 
-Your written project submission will traditionally be followed by an oral exam, where your supervisor(s) and another examiner will be present. This oral exam includes a presentation, followed by a question round. The guidelines at ITU allocate 30-50 minutes per student, depending on your project type. Please check the current itu guidelines for details, e.g. for [Master thesis](https://itustudent.itu.dk/study-administration/project-work/thesis) 50 minutes are allocated per student. (Please note: might change. This information was updated 05.01.2024)
+Your written project submission will traditionally be followed by an oral exam, where your supervisor(s) and another examiner will be present. This oral exam includes a presentation, followed by a question round. The guidelines at ITU allocate 30-50 minutes per student, depending on your project type. Please check the current itu guidelines for details, e.g. for [Master thesis](https://itustudent.itu.dk/study-administration/project-work/thesis) 50 minutes are allocated per student. (Please note: might change. Check with your supervisor, and the guidelines from SAP.)
 
-A common timeline for a 40-minutes oral exam can hence look as follows:
+A common timeline for a 40-minutes oral for a [Bachelor](https://itustudent.itu.dk/Study-Administration/Project-Work/Bachelor-Project) exam can look as follows:
 - ca. 15 minutes presentation
-- ca. 20 minutes exam
+- ca. 20 minutes questions
+- ca. 2-3 minutes grading (you will have to leave the room for this)
+- ca. 2-3 minutes buffer+sharing the grade
+
+A common timeline for a 50-minutes oral exam for a [Master thesis](https://itustudent.itu.dk/study-administration/project-work/thesis) can look as follows:
+- ca. 25 minutes presentation
+- ca. 20 minutes questions
 - ca. 2-3 minutes grading (you will have to leave the room for this)
 - ca. 2-3 minutes buffer+sharing the grade
 
