@@ -135,6 +135,20 @@ Which questions must be answered?
 - Did you unveil limitations of your data of choice?
 - ...
 
+### How many pages?
+There is no direct one-fits-all answer to this question. 
+Write as much as necessary, but not more than needed. In general more pages are not always better. 
+The number of pages depends on the project type, scope, layout, and group size, etc. 
+Some idea: in a one-page layout anything between 15 and 100 pages can be plausible. 
+If you happen to come up with a solid mathematical proof, this might not require as many pages as if you include many example images.
+
+> I didn't have time to write a short letter, so I wrote a long one instead. 
+>
+> -- <cite>Mark Twain </cite>
+
+
+
+
 ### Report Failure - What if "it does not work"?
 First of all: Don't panic. This happens all of the time, and actually often unveils the really interesting research problems. People say Noble Prizes are won by "this is odd", and not "this turned out exactly as I expected".
 
