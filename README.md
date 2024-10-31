@@ -90,18 +90,21 @@ In general to search for available data and code, I recommend the following sour
 
 # Recommendations
 General recommendations for the process. 
-## Tools
-- try [google colab](https://colab.research.google.com/) for computations Especially good if your hardware is very limited, or if you don't have a GPU. 
-- use [overleaf](https://www.overleaf.com/project) for Latex (Pro: you do not need to set anything up on your own machine, and can write "anywhere". Contra: You need internet.)
-- forgot the LaTeX symbol? [No problem](https://detexify.kirelabs.org/classify)html
-- need some [math help](https://www.wolframalpha.com/)? 
-- help to look into your date? Try [FiftyOne](https://docs.voxel51.com/)
 
 ## Time and Project management hints
 - use the [pomodoro technique](https://www.marinaratimer.com/)
 - define your goals 'SMART': Specific Measurable Achievable Reasonable Time-Bound
 - explore other methods [here](https://en.wikipedia.org/wiki/Time_management)
 
+## Tools
+- use [overleaf](https://www.overleaf.com/project) for Latex (Pro: you do not need to set anything up on your own machine, and can write "anywhere". Contra: You need internet.)
+- forgot the LaTeX symbol? [No problem](https://detexify.kirelabs.org/classify.html)
+- need some [math help](https://www.wolframalpha.com/)? 
+- help to look into your date? Try [FiftyOne](https://docs.voxel51.com/)
+
+## Computing Recourses
+- try [google colab](https://colab.research.google.com/) for computations Especially good if your hardware is very limited, or if you don't have a GPU. 
+- kaggle now offers computing recources
 
 # How to report
 In general your report should be self-contained, i.e. not depend on a link to a github repo to be understood. My general advice is try to write the report which you would like to read. 
