@@ -114,7 +114,8 @@ But how shall you report your findings? A scientific report conforms to a common
 ## The general structure
 Your report should be structured similarly as suggested in the following:
 <ol>
-<li> Introduction: intention, i.e. context and related work referring to state of the art (the latter can also be separate). What is your goal or research question?</li>
+<li> Introduction: intention, i.e. context and related work referring to state of the art. What is your goal or research question?</li>
+ <li> Related Work: tbd</li> 
 <li> Methods: Detailed description of used methods and your adaptations or new one. Note that implementation details should go in the experiments section.</li> 
 <li> Experiments: What did you do? How do you measure your success, i.e. what are quantitative and qualitative measures? </li> 
 <ul>
