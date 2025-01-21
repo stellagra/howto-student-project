@@ -114,16 +114,17 @@ But how shall you report your findings? A scientific report conforms to a common
 ## The general structure
 Your report should be structured similarly as suggested in the following:
 <ol>
-<li> Introduction: intention, i.e. context and related work referring to state of the art. What is your goal or research question?</li>
- <li> Related Work: tbd</li> 
-<li> Methods: Detailed description of used methods and your adaptations or new one. Note that implementation details should go in the experiments section.</li> 
-<li> Experiments: What did you do? How do you measure your success, i.e. what are quantitative and qualitative measures? </li> 
+<li> Introduction: What is the problem and why is it important? What is your goal and research question?</li>
+<li> Related Work: What has been done in this area before? Is ther a consensus? Which problems persist, which gaps did you identify if any? </li> 
+<li> Methods: How was the research conducted? Describe mathematical methods, and your adaptations if any. (Note that implementation details should go in the experiments section.)</li> 
+<li> Experiments: What did you do? Describe the experiments conducted to evaluate your methods or algorithms. How do you measure your success, i.e. what are quantitative and qualitative measures? What would be needed to reproduce your study? (Refer to methods section when needed.)</li> 
 <ul>
-<li> Data: Which data did you use? How did you collect it? (Might be a separate chapter.)</li> 
-<li> Results/Evaluation: How did it turn out?</li> 
+<li>Data: Which data did you use? How did you collect it? (Might be a separate chapter.)</li> 
+<li>Implementation Details: specific parameter settings.</li>
 </ul>
-<li> Discussion: Did the experiments work our as intended? Can you answer your research question(s)? How do they relate to your hypothesis? Did you find something unexpected? In case you have further ideas for future work, and how to address shortcomings you found. (might also go in Conclusion)</li> 
-<li> Conclusion: Summarize your findings. Might also contain future work if not already in discussions. (Note that this depends on the structure of youre report.)</li> 
+<li> Results: What did you find? How did it turn out? Present your outcomes objetively in graphs and tables, highlight most important findings. Save the interpretation for later.</li> 
+<li> Discussion: What do the results mean and how do they compare to related work? Did the experiments work our as intended? Can you answer your research question(s)? How do they relate to your hypothesis? Did you find something unexpected? In case you have further ideas for future work, and how to address shortcomings you found. (might also go in Conclusion)</li> 
+<li> Conclusion and Future Work: What are the key takeaways and what’s next? Summarize and relfect on your findings.</li> 
 <li> References: list of references which you used.</li> 
 <li> Appendix: not always needed, but might be useful for additional images, large tables etc. </li> 
 </ol>
