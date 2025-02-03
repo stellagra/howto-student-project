@@ -204,3 +204,10 @@ It is possible that you will receive questions which you cannot answer. My best 
 
 # Resources at ITU
 If you are a student at ITU, you have access to specific resources, which might be helpful. Check it out [here](resources_itu.md).
+
+
+# What to do after?
+If you are business-oriented, you should check out [itu-next-gen](https://www.itunextgen.dk/activities/itu-nextgen-breakfast) for start-up interested students.
+If you are considering a PhD, maybe you want to check [DDSA PhD calls](https://ddsa.dk/phdfellowshipcall2025/), or vancancies at universities.
+Dare to take advantage of your network! 
+
