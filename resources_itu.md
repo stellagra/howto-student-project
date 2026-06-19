@@ -3,7 +3,7 @@
 ## Literature Research
 When doing literature research you may find that many articles are behind a paywall. Check the resources at ITU for a [literature search](https://kub.kb.dk/c.php?g=91657&p=591599), which gives you access to publications behind paywalls. 
 You might also find the courses and material from [Københavns Universitetsbibliotek](https://kubkalender.kb.dk/) helpful. 
-To organize your research material, you might want to use a reference management tool, e.g. [zotero](https://www.zotero.org/), see [notes and events](https://kub.kb.dk/c.php?g=127381). 
+To organize your research material, you might want to use a reference management tool, e.g. [zotero](https://www.zotero.org/). (Sometimes there are events are KU as an introduction.)
 
 
 ## Computing Resources
