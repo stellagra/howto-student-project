@@ -1,3 +1,6 @@
+# Guide Towards a Successful Project
+
+If you are writing a Bachelor project, Master thesis or research project, then you may find this repo useful.
 
 - [Intention](#intention)
 - [My Expectations and Philosophy as your supervisor](#my-expectations-and-philosophy-as-your-supervisor)
